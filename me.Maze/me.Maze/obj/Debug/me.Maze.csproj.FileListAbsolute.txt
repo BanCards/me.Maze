@@ -6,3 +6,11 @@ F:\programming\上級言語\me.Maze\me.Maze\obj\Debug\me.Maze.exe
 F:\programming\上級言語\me.Maze\me.Maze\obj\Debug\me.Maze.pdb
 F:\programming\上級言語\me.Maze\me.Maze\obj\Debug\me.Maze.csproj.AssemblyReference.cache
 F:\programming\上級言語\me.Maze\me.Maze\obj\Debug\me.Maze.csproj.SuggestedBindingRedirects.cache
+D:\GitHubFile\me.Maze\me.Maze\bin\Debug\me.Maze.exe.config
+D:\GitHubFile\me.Maze\me.Maze\bin\Debug\me.Maze.exe
+D:\GitHubFile\me.Maze\me.Maze\bin\Debug\me.Maze.pdb
+D:\GitHubFile\me.Maze\me.Maze\obj\Debug\me.Maze.csproj.AssemblyReference.cache
+D:\GitHubFile\me.Maze\me.Maze\obj\Debug\me.Maze.csproj.SuggestedBindingRedirects.cache
+D:\GitHubFile\me.Maze\me.Maze\obj\Debug\me.Maze.csproj.CoreCompileInputs.cache
+D:\GitHubFile\me.Maze\me.Maze\obj\Debug\me.Maze.exe
+D:\GitHubFile\me.Maze\me.Maze\obj\Debug\me.Maze.pdb

@@ -4,10 +4,13 @@ namespace me.Maze
 {
     class Program
     {
-        //Maze.txtを参照
-
-        //プレイヤーを進める関数
-        //敵を進める関数 (壁の右側を歩く)　> 判断関数
+        /*
+         *  Todo
+         *  
+         *  プレイヤーを進める関数
+         *  敵を進める関数 (壁の右側を歩く)　> 判断関数
+         *  操作等々
+         */
 
         readonly Maze maze;
         readonly Player player;
@@ -63,6 +66,8 @@ namespace me.Maze
         public static void Main()
         {
             Program p = new Program();
+
+            Console.WriteLine(p.IsGoal());
         }
     }
 }
