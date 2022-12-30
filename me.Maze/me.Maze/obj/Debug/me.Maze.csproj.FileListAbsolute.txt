@@ -1,0 +1,8 @@
+F:\programming\上級言語\me.Maze\me.Maze\bin\Debug\me.Maze.exe.config
+F:\programming\上級言語\me.Maze\me.Maze\bin\Debug\me.Maze.exe
+F:\programming\上級言語\me.Maze\me.Maze\bin\Debug\me.Maze.pdb
+F:\programming\上級言語\me.Maze\me.Maze\obj\Debug\me.Maze.csproj.CoreCompileInputs.cache
+F:\programming\上級言語\me.Maze\me.Maze\obj\Debug\me.Maze.exe
+F:\programming\上級言語\me.Maze\me.Maze\obj\Debug\me.Maze.pdb
+F:\programming\上級言語\me.Maze\me.Maze\obj\Debug\me.Maze.csproj.AssemblyReference.cache
+F:\programming\上級言語\me.Maze\me.Maze\obj\Debug\me.Maze.csproj.SuggestedBindingRedirects.cache
